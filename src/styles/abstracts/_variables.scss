@@ -1,0 +1,51 @@
+$color-primary: #000000;
+$color-secondary: #ffffff;
+$color-accent: #ff6b35;
+$color-accent-2: #4a90e2;
+
+$gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+$gradient-dark: linear-gradient(135deg, #232526 0%, #414345 100%);
+$gradient-cinematic: linear-gradient(45deg, #0c0c0c 0%, #434343 50%, #0c0c0c 100%);
+
+$base-font-size: 1rem;
+$base-line-height: 1.6;
+
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+$spacing-2xl: 3rem;
+$spacing-3xl: 4rem;
+
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+$breakpoint-2xl: 1536px;
+
+$transition-fast: 0.15s;
+$transition-normal: 0.3s;
+$transition-slow: 0.6s;
+
+$ease-in-out-quart: cubic-bezier(0.76, 0, 0.24, 1);
+$ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+$z-index-header: 1000;
+$z-index-modal: 9999;
+$z-index-tooltip: 10000;
+
+$font-family-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-heading: 'Poppins', sans-serif;
+$font-family-mono: 'Fira Code', monospace;
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 12px;
+$border-radius-xl: 16px;
