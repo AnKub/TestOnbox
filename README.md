@@ -1,4 +1,4 @@
-<!-- # 🎬 Wakanda Forever: Zero Limits
+# 🎬 Wakanda Forever: Zero Limits
 > *Cinematic UI Experience that would make T'Challa proud*
 
 
@@ -67,4 +67,4 @@ This project recreates cinematic magic without the 3D budget. We've replaced com
 
 
 ## 🤖 Development Notes
-Built with caffeine, and...  -->
+Built with caffeine, and... 
